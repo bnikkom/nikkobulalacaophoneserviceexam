@@ -49,3 +49,4 @@ Requirements :
 PHP 7.4
 Composer
 run `composer update` to install app packages
+
