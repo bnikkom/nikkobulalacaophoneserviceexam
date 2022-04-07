@@ -1,3 +1,4 @@
+
 ## Demo Data
 Please refer to these are the static data that can be used in the app
 
@@ -48,4 +49,5 @@ Please refer to these are the static data that can be used in the app
 Requirements :
 PHP 7.4
 Composer
-run `composer update` to install app packages
+Run `composer update` to install app packages
+Access **/public** path on browser
