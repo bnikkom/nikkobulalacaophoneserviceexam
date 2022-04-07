@@ -46,8 +46,9 @@ Please refer to these are the static data that can be used in the app
        }
     ]
 ## Information
-Requirements :
-PHP 7.4
-Composer
-Run `composer update` to install app packages
-Access **/public** path on browser
+
+ - Requirements :
+ - PHP 7.4
+ - Composer
+ - Run `composer update` to install app packages
+ - Access **/public** path  on browser
